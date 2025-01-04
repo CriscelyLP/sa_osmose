@@ -1,5 +1,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11004814.svg)](https://doi.org/10.5281/zenodo.11004814)
+[![Publication](https://www.sciencedirect.com/science/article/pii/S0304380024003788?via%3Dihub)
 
 ## A protocol for implementing parameter sensitivity analyses in complex marine ecosystem models
 
